@@ -63,7 +63,7 @@ Flatten ➝ Dense ➝ Softmax
 
 ```bash
 # Clone the repository
-git clone https://github.com/himanshi2744/plant-disease-prediction.git
+git clone [Plant Dieases](https://github.com/himanshi2744/plant-disease-prediction.git)
 cd plant-disease-prediction-main
 
 # Install dependencies
